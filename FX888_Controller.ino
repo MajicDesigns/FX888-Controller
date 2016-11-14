@@ -16,8 +16,8 @@
 //
 // External library dependencies
 // LiquidCrystal_SR     https://bitbucket.org/fmalpartida/new-liquidcrystal/overview
-// MD_REncoder          https://arduinocode.codeplex.com
-// MD_KeySwitch         https://arduinocode.codeplex.com
+// MD_REncoder          https://github.com/MajicDesigns/REncoder
+// MD_KeySwitch         https://github.com/MajicDesigns/KeySwitch
 // ResponsiveAnalogRead https://github.com/dxinteractive/ResponsiveAnalogRead
 
 // Miscellaneous
