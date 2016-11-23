@@ -16,8 +16,8 @@
 //
 // External library dependencies
 // LiquidCrystal_SR     https://bitbucket.org/fmalpartida/new-liquidcrystal/overview
-// MD_REncoder          https://github.com/MajicDesigns/REncoder
-// MD_KeySwitch         https://github.com/MajicDesigns/KeySwitch
+// MD_REncoder          https://github.com/MajicDesigns/MD_REncoder
+// MD_KeySwitch         https://github.com/MajicDesigns/MD_KeySwitch
 // ResponsiveAnalogRead https://github.com/dxinteractive/ResponsiveAnalogRead
 
 // Miscellaneous
